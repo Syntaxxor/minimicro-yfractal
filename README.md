@@ -1,5 +1,5 @@
 # minimicro-yfractal
-A very simple Y fractal generator for MiniMicro
+A very simple iterative Y fractal generator for MiniMicro
 
 # Setup
 Download the file and load and run it in Mini Micro. Or just copy/paste the contents into a new file.
